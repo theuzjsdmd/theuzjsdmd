@@ -8,7 +8,7 @@ BOAS VINDAS AO MEU PERFIL👋
 
 .ultilizo este espaço para a minha organiação e compartilhamento dos meus projetos desenvolvidos.
 
-.gmail eu.matheus.j.s.melo@gmail.com
+.gmail.matheus.silverio.melo@escola.pr.gov.br
 
 
 
