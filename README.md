@@ -2,11 +2,14 @@ BOAS VINDAS AO MEU PERFIL👋
 
 .meu nome é matheus joaquim silverio de melo.
 
+.estou cursando o https://cursos.alura.com.br/
+
 .estou me desenvolvendo na linguagem javascript.
 
 .ultilizo este espaço para a minha organiação e compartilhamento dos meus projetos desenvolvidos.
 
 .gmail eu.matheus.j.s.melo@gmail.com
+
 
 
 
